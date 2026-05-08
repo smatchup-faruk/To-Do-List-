@@ -1,0 +1,9 @@
+Node.js version v25.8.0 detected.
+Odd numbered Node.js versions will not enter LTS status and should not be used for production. For more information, please see https://nodejs.org/en/about/previous-releases/.
+- Installing packages (npm)...
+(node:23898) [DEP0190] DeprecationWarning: Passing args to a child process with shell option true can lead to security vulnerabilities, as the arguments are not escaped, only concatenated.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+npm error Invalid Version: 
+npm error A complete log of this run can be found in: /home/pluto/.npm/_logs/2026-03-18T16_16_19_023Z-debug-0.log
+✖ Package install failed, see above.
+The Schematic workflow failed. See above.
